@@ -1,0 +1,21 @@
+.workflow-config .form {
+  width: 30%;
+}
+
+.workflow-config .form .field,
+.workflow-config .form button {
+  margin: 12px 0;
+  width: 100%;
+}
+
+.workflow-config .field p {
+  color: var(--color-dark-secondary);
+}
+
+.workflow-config .field input {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 12px 0;
+  padding: 12px;
+  font-size: 16px;
+}

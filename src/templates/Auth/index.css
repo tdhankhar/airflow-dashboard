@@ -1,0 +1,33 @@
+.auth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.auth .box {
+  width: 400px;
+  padding: 24px;
+  background-color: var(--color-light-primary);
+}
+
+.auth .box .container p {
+  color: var(--color-dark-secondary);
+  margin: 12px 0 0 0;
+}
+
+.auth .box .container .field {
+  margin: 12px 0;
+}
+
+.auth .box .container input {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 12px 0;
+  padding: 12px;
+  font-size: 16px;
+}
+
+.auth .box .container button {
+  width: 100%;
+}

@@ -1,0 +1,6 @@
+.workflow-instance .instance-logs {
+  background-color: var(--color-dark-primary);
+  color: var(--color-light-primary);
+  font-family: "Courier New", Courier, monospace;
+  padding: 24px;
+}
